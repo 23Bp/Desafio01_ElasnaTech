@@ -1,0 +1,50 @@
+body{
+    background-color: #751c3b;
+    color: #f3d5df;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.config{
+    background-color: #751c3b;
+    color: #f3d5df;
+    width: 80%;
+}
+
+.box{
+    text-align: center;
+    background-color: #f785ad;
+    color: #ffffff;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.tamanho{
+    font-size: 24px;
+}
+
+.margem{
+    margin: 80px;
+}
+
+.preenchimento{
+    margin: 0;
+    padding: 80px;
+}
+
+.borda{
+    margin: 0;
+    border: 20px solid #9e2a85;
+}
+
+a{
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 2.5px;
+}
+
+a:hover{
+    color: #e3ceeb;
+    background-color: #8a5e6d;
+}
